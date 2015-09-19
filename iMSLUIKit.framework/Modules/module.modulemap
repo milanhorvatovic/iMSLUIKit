@@ -1,0 +1,6 @@
+framework module iMSLUIKit {
+  umbrella header "iMSLUIKit.h"
+
+  export *
+  module * { export * }
+}
