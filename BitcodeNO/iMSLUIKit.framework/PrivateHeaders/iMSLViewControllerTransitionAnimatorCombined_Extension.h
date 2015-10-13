@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionAnimatorCombined.h"
-#import "iMSLViewControllerTransitionAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorCombined.h>
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorBase_Extension.h>
 
 @interface iMSLViewControllerTransitionAnimatorCombined ()
 

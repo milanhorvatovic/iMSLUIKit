@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLStoryboardLinkViewController.h"
-#import "iMSLContainerViewController_Extension.h"
+#import <iMSLUIKit/iMSLStoryboardLinkViewController.h>
+#import <iMSLUIKit/iMSLContainerViewController_Extension.h>
 
 @interface iMSLStoryboardLinkViewController ()
 

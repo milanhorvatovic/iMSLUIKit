@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLTextField.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLTextableComponentProtocolProtected.h"
+#import <iMSLUIKit/iMSLTextField.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLTextableComponentProtocolProtected.h>
 
 @interface iMSLTextField () <
 iMSLUIInitProtocolProtected,

@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 Martin Herman. All rights reserved.
 //
 
-#import "iMSLTableViewController.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLViewControllerProtocolProtected.h"
+#import <iMSLUIKit/iMSLTableViewController.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLViewControllerProtocolProtected.h>
 
-#import "iMSLViewControllerTransition.h"
+#import <iMSLUIKit/iMSLViewControllerTransition.h>
 
 @protocol NSFetchedResultsControllerDelegate;
 

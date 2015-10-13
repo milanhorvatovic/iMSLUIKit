@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewAnimatorFlightBack.h"
-#import "iMSLViewAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewAnimatorFlightBack.h>
+#import <iMSLUIKit/iMSLViewAnimatorBase_Extension.h>
 
 @interface iMSLViewAnimatorFlightBack ()
 

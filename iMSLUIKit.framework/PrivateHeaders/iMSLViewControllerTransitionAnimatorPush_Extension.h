@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionAnimatorPush.h"
-#import "iMSLViewControllerTransitionAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorPush.h>
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorBase_Extension.h>
 
 @interface iMSLViewControllerTransitionAnimatorPush ()
 

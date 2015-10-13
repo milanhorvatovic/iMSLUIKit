@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewController.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLViewControllerProtocolProtected.h"
+#import <iMSLUIKit/iMSLViewController.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLViewControllerProtocolProtected.h>
 
-#import "iMSLViewControllerTransitionManager.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionManager.h>
 
 @interface iMSLViewController ()
 <

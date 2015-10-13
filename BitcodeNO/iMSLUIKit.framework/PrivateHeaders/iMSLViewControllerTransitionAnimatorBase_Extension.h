@@ -5,10 +5,10 @@
 //  Copyright (c) 2014 Milan Horvatovic. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionAnimatorBase.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorBase.h>
 #import <iMSLCoreKit/iMSLObject_Extension.h>
 
-#import "iMSLViewAnimatorBase.h"
+#import <iMSLUIKit/iMSLViewAnimatorBase.h>
 
 #define degreesToRadians(x) (M_PI * x / 180.0)
 

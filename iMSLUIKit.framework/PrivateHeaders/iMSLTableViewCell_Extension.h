@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLTableViewCell.h"
-#import "iMSLProtocolProtected.h"
+#import <iMSLUIKit/iMSLTableViewCell.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
 
 @interface iMSLTableViewCell () <
 iMSLUIInitProtocolProtected

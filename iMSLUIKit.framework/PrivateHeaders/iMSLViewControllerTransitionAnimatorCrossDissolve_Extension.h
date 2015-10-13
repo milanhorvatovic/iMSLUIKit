@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionAnimatorCrossDissolve.h"
-#import "iMSLViewControllerTransitionAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorCrossDissolve.h>
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorBase_Extension.h>
 
 @interface iMSLViewControllerTransitionAnimatorCrossDissolve ()
 

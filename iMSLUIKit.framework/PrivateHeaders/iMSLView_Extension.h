@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLView.h"
+#import <iMSLUIKit/iMSLView.h>
 
 @interface iMSLView () <
 iMSLUIInitProtocolProtected

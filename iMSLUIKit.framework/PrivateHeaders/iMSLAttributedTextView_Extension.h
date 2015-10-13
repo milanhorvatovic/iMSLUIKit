@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLAttributedTextView.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLTextableComponentProtocolProtected.h"
+#import <iMSLUIKit/iMSLAttributedTextView.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLTextableComponentProtocolProtected.h>
 
 @interface iMSLAttributedTextView () <
 iMSLUIInitProtocolProtected,

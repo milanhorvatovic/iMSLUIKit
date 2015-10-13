@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLContainerViewController.h"
-#import "iMSLContainerCommonViewController_Extension.h"
+#import <iMSLUIKit/iMSLContainerViewController.h>
+#import <iMSLUIKit/iMSLContainerCommonViewController_Extension.h>
 
 @interface iMSLContainerViewController ()
 

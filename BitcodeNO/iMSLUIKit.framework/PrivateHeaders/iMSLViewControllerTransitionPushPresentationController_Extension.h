@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Milan Horvatovic. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionPushPresentationController.h"
-#import "iMSLViewControllerTransitionDimmingPresentationController_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionPushPresentationController.h>
+#import <iMSLUIKit/iMSLViewControllerTransitionDimmingPresentationController_Extension.h>
 
 @interface iMSLViewControllerTransitionPushPresentationController ()
 

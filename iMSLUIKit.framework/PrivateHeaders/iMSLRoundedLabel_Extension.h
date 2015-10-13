@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLRoundedLabel.h"
-#import "iMSLLabel.h"
+#import <iMSLUIKit/iMSLRoundedLabel.h>
+#import <iMSLUIKit/iMSLLabel.h>
 
 @interface iMSLRoundedLabel ()
 

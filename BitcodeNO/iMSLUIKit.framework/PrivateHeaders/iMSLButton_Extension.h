@@ -6,9 +6,9 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLButton.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLTextableComponentProtocolProtected.h"
+#import <iMSLUIKit/iMSLButton.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLTextableComponentProtocolProtected.h>
 
 @interface iMSLButton () <
 iMSLUIInitProtocolProtected,

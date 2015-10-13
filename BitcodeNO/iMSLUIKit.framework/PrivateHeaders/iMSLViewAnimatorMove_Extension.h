@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewAnimatorMove.h"
-#import "iMSLViewAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewAnimatorMove.h>
+#import <iMSLUIKit/iMSLViewAnimatorBase_Extension.h>
 
 @interface iMSLViewAnimatorMove ()
 

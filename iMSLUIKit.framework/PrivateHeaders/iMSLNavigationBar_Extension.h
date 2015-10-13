@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLNavigationBar.h"
-#import "iMSLProtocolProtected.h"
+#import <iMSLUIKit/iMSLNavigationBar.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
 
 @interface iMSLNavigationBar () <
 iMSLUIInitProtocolProtected

@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLResponder.h"
-#import "iMSLProtocolProtected.h"
+#import <iMSLUIKit/iMSLResponder.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
 
 @interface iMSLResponder () <
 iMSLUIInitProtocolProtected

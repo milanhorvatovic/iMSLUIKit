@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewControllerWithCollectionView.h"
-#import "iMSLProtocolProtected.h"
-#import "iMSLViewController_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerWithCollectionView.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
+#import <iMSLUIKit/iMSLViewController_Extension.h>
 
-#import "iMSLViewControllerTransitionManager.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionManager.h>
 
 @protocol NSFetchedResultsControllerDelegate;
 

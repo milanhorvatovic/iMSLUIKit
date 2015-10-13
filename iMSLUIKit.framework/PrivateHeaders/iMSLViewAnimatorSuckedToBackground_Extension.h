@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewAnimatorSuckedToBackground.h"
-#import "iMSLViewAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewAnimatorSuckedToBackground.h>
+#import <iMSLUIKit/iMSLViewAnimatorBase_Extension.h>
 
 @interface iMSLViewAnimatorSuckedToBackground ()
 

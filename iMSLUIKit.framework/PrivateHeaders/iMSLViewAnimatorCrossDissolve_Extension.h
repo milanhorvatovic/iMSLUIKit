@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewAnimatorCrossDissolve.h"
-#import "iMSLViewAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewAnimatorCrossDissolve.h>
+#import <iMSLUIKit/iMSLViewAnimatorBase_Extension.h>
 
 @interface iMSLViewAnimatorCrossDissolve ()
 

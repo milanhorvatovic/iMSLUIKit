@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Martin Herman. All rights reserved.
 //
 
-#import "iMSLViewAnimatorBase.h"
+#import <iMSLUIKit/iMSLViewAnimatorBase.h>
 
 @interface iMSLViewAnimatorBase ()
 

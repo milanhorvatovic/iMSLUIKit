@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLToolbar.h"
-#import "iMSLProtocolProtected.h"
+#import <iMSLUIKit/iMSLToolbar.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
 
 @interface iMSLToolbar () <
 iMSLUIInitProtocolProtected

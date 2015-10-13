@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLCollectionViewCell.h"
-#import "iMSLProtocolProtected.h"
+#import <iMSLUIKit/iMSLCollectionViewCell.h>
+#import <iMSLUIKit/iMSLProtocolProtected.h>
 
 @interface iMSLCollectionViewCell () <
 iMSLUIInitProtocolProtected

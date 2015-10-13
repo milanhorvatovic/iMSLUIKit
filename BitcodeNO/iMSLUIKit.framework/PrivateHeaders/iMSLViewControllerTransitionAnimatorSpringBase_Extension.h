@@ -5,8 +5,8 @@
 //  Copyright (c) 2014 Milan Horvatovic. All rights reserved.
 //
 
-#import "iMSLViewControllerTransitionAnimatorSpringBase.h"
-#import "iMSLViewControllerTransitionAnimatorBase_Extension.h"
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorSpringBase.h>
+#import <iMSLUIKit/iMSLViewControllerTransitionAnimatorBase_Extension.h>
 
 extern CGFloat const kViewControllerTransitionAnimatorBaseSpringDampingMultiplierDefault;
 extern CGFloat const kViewControllerTransitionAnimatorBaseSpringVelocityMultiplierDefault;

@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLRoundedButton.h"
-#import "iMSLButton_Extension.h"
+#import <iMSLUIKit/iMSLRoundedButton.h>
+#import <iMSLUIKit/iMSLButton_Extension.h>
 
 @interface iMSLRoundedButton ()
 

@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLAttributedRoundedLabel.h"
-#import "iMSLRoundedLabel.h"
+#import <iMSLUIKit/iMSLAttributedRoundedLabel.h>
+#import <iMSLUIKit/iMSLRoundedLabel.h>
 
 @interface iMSLAttributedRoundedLabel ()
 

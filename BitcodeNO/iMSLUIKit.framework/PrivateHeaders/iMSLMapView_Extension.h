@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 iMSoft Labs. All rights reserved.
 //
 
-#import "iMSLMapView.h"
+#import <iMSLUIKit/iMSLMapView.h>
 
 @interface iMSLMapView () <iMSLUIInitProtocolProtected>
 
